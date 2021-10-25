@@ -1,4 +1,4 @@
-## Hi, my name is Bora HDIR
+## Hi, my name is Bora HIDIR
 
 - Developing hacking tools with Python and C
 - Exploit development
