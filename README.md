@@ -16,6 +16,15 @@ You can follow me at [Twitter][df3]
 You can contact me at [Linkedin][df4]                                              
 Contact Me: csehofficial@protonmail.com
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csehacademy" alt="csehacademy" /></a> </p>
+
+<p align="center">
+	<a href="https://github.com/csehacademy">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=csehacademy&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="csehacademy"/>
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csehacademy&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="csehacademy"/>
+	</a>
+</p>
+
 [//]: # 
    [df2]: <https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?src=sac&kw=uygulamal%C4%B1+etik+hacker>
    [df3]: <https://twitter.com/borahidirr/>
