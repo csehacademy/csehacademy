@@ -21,8 +21,6 @@ Contact Me: csehofficial@protonmail.com
    [df3]: <https://twitter.com/borahidirr/>
    [df4]: <https://www.linkedin.com/in/bora-h%C4%B1d%C4%B1r/>
    
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csehacademy" alt="csehacademy" /></a> </p>
-
 <p align="center">
 	<a href="https://github.com/csehacademy">
 	</a>
