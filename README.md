@@ -11,9 +11,7 @@
 - I am developing cyber security tools with Python
 - I am developing Bad USB and Arduino projects
 
-You can take my Ethical Hacker Course on [Udemy][df2]                                                                       
-You can follow me at [Twitter][df3]                                             
-You can contact me at [Linkedin][df4]                                              
+You can take my Ethical Hacker Course on [Udemy][df2]                                                                                                     
 Contact Me: csehofficial@protonmail.com
 
 [//]: # 
