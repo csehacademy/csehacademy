@@ -18,9 +18,9 @@ Contact Me: csehofficial@protonmail.com
 
 [//]: # 
    [df2]: <https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?src=sac&kw=uygulamal%C4%B1+etik+hacker>
-   [df3]: <https://twitter.com/borahidirr/>
-   [df4]: <https://www.linkedin.com/in/bora-h%C4%B1d%C4%B1r/>
+   
      <a href="https://www.linkedin.com/in/bora-h%C4%B1d%C4%B1r"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+     <a href="https://twitter.com/borahidirr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
    
 <p align="center">
 	<a href="https://github.com/csehacademy">
