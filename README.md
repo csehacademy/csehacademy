@@ -8,7 +8,7 @@
 
 - I am a Udemy Instructor
 - I am a Cyber Security Researcher
-- I am developing cyber security tools with Python
+- I am developing Cyber Security tools with Python
 - I am developing Bad USB and Arduino projects
 
 You can take my Ethical Hacker Course on [Udemy][df2]                                                                                                     
