@@ -7,7 +7,7 @@
 ## About Me
 
 - :green_book: I am a Udemy Instructor
-- :radioactive: I am a Cyber Security Researcher
+- :mag: I am a Cyber Security Researcher
 - :snake:  I also know Python and Bash scripting.
 - :jack_o_lantern: I am developing Bad USB and Arduino projects
 
