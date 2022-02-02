@@ -1,6 +1,6 @@
 ## Hi, my name is Bora
 
-- Developing hacking tools with Python and C
+- Developing hacking tools with Python and C++
 - Exploit development
 - Cyber Security Research
 
