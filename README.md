@@ -11,7 +11,7 @@
 - :snake:  I also know Python and Bash scripting.
 - :jack_o_lantern: I am developing Bad USB and Arduino projects
 
-You can take my Ethical Hacker Course on [Udemy][df2]                                                                                                     
+You can take my Ethical Hacker Course and Web Security Course on [Udemy][df2][df5]                                                                                                    
 Contact Me: csehofficial@protonmail.com
 	
 <p align="center">
@@ -25,6 +25,7 @@ Contact Me: csehofficial@protonmail.com
    [df2]: <https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?src=sac&kw=uygulamal%C4%B1+etik+hacker>
    [df3]: <https://twitter.com/borahidirr/>
    [df4]: <https://www.linkedin.com/in/bora-h%C4%B1d%C4%B1r/>
+   [df5]: <https://www.udemy.com/course/web-security-ve-bug-bounty-sifirdan-ileri-seviyeye/?referralCode=21E95729DA08FF105E4F/>
    
 [//]: # 
 
