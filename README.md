@@ -11,7 +11,7 @@
 - :snake:  I also know Python and Bash scripting.
 - :jack_o_lantern: I am developing Bad USB and Arduino projects
 
-You can take my [Ethical Hacking Course][df2] - [Web Security Course][df5]                                                                                                    
+You can take my [Ethical Hacking Course][df2] or [Web Security Course][df5]                                                                                                    
 Contact Me: csehofficial@protonmail.com
 	
 <p align="center">
