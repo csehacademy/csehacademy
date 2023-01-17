@@ -16,7 +16,7 @@ Contact Me: csehofficial@protonmail.com
 	
 <p align="center">
 	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csehacademy&show_icons=true&locale=en" alt="csehacademy" /></p>
-		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csehacademy&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="csehacademy"/>
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csehacademy&show_icons=true&locale=en&layout=compact" alt="csehcademy" /></p>
 	</a>
 </p>
 
