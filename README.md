@@ -15,8 +15,7 @@ You can take my [Ethical Hacking Course][df2] or [Web Security and Bug Bounty Co
 Contact Me: csehofficial@protonmail.com
 	
 <p align="center">
-	<a href="https://github.com/csehacademy">
-		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=csehacademy&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="csehacademy"/>
+	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csehacademy&show_icons=true&locale=en" alt="csehacademy" /></p>
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csehacademy&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="csehacademy"/>
 	</a>
 </p>
