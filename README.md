@@ -17,8 +17,6 @@ Contact Me: csehofficial@protonmail.com
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csehacademy&show_icons=true&locale=en&layout=compact" alt="csehacademy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csehacademy" alt="csehacademy" /></p>
-
 [//]: # 
    [df2]: <https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?src=sac&kw=uygulamal%C4%B1+etik+hacker](https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?referralCode=A2C91BDCEC549705CC1E>
    [df3]: <https://twitter.com/borahidirr/>
