@@ -17,6 +17,7 @@ Contact Me: csehofficial@protonmail.com
 <p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csehacademy&show_icons=true&locale=en" alt="csehacademy" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csehacademy&label=Profile%20views&color=0e75b6&style=flat" alt="csehacademy" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csehacademy&show_icons=true&locale=en&layout=compact" alt="csehacademy" /></p>
 
 [//]: # 
    [df2]: <https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?src=sac&kw=uygulamal%C4%B1+etik+hacker](https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?referralCode=A2C91BDCEC549705CC1E>
@@ -30,7 +31,7 @@ Contact Me: csehofficial@protonmail.com
 
    <a href="https://www.linkedin.com/in/bora-hidir/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://www.instagram.com/csehacademy/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-	<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csehacademy&show_icons=true&locale=en&layout=compact" alt="csehacademy" /></p>
+	
    </div>
    
    ![snake svg](https://github.com/csehacademy/csehacademy/blob/output/github-contribution-grid-snake.svg)
