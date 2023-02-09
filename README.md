@@ -27,8 +27,9 @@ Contact Me: csehofficial@protonmail.com
 [//]: # 
 
    <div align="center"><p><a href="https://twitter.com/borahidirr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csehacademy&show_icons=true&locale=en&layout=compact" alt="csehacademy" /></p>
    <a href="https://www.linkedin.com/in/bora-hidir/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://www.instagram.com/csehacademy/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    </div>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csehacademy&show_icons=true&locale=en&layout=compact" alt="csehacademy" /></p>
+   
    ![snake svg](https://github.com/csehacademy/csehacademy/blob/output/github-contribution-grid-snake.svg)
