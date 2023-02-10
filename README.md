@@ -31,7 +31,7 @@ Contact Me: csehofficial@protonmail.com
 
    <div align="center"><https://www.linkedin.com/in/bora-hidir/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	<a href="https://discord.gg/qYWqMsyg3R">
-    <img src="https://img.shields.io/discord/695980914991169536?logo=discord&style=for-the-badge" />
+    <img src="https://img.shields.io/discord/695980914991169536?logo=discord" />
   </a>
    <div align="center"><p><a href="https://twitter.com/borahidirr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
    <a href="https://www.instagram.com/csehacademy/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
