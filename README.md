@@ -16,7 +16,7 @@ Contact Me: csehofficial@protonmail.com
 	
 <p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csehacademy&show_icons=true&locale=en" alt="csehacademy" <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csehacademy&show_icons=true&locale=en&layout=compact" alt="csehacademy" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csehacademy&label=Profile%20views&color=0e75b6&style=flat" alt="csehacademy" /> </p>
+
 
 
 [//]: # 
@@ -25,7 +25,9 @@ Contact Me: csehofficial@protonmail.com
    [df4]: <https://www.linkedin.com/in/bora-h%C4%B1d%C4%B1r/>
    [df5]: <https://www.udemy.com/course/web-security-ve-bug-bounty-sifirdan-ileri-seviyeye/?referralCode=21E95729DA08FF105E4F/>
    
+   
 [//]: # 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=csehacademy&label=Profile%20views&color=0e75b6&style=flat" alt="csehacademy" /> </p>
 
    <div align="center"><p><a href="https://twitter.com/borahidirr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
