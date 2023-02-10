@@ -27,7 +27,7 @@ Contact Me: csehofficial@protonmail.com
    
    
 [//]: # 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csehacademy&label=Profile%20views&color=0e75b6&style=flat" alt="csehacademy" /> </p>
+
 
    <div align="center"><p><a href="https://twitter.com/borahidirr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
