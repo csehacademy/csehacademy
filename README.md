@@ -8,7 +8,7 @@
 
 - :green_book: I am a Udemy Instructor
 - :mag: I am a Cyber Security Instructor
-- :snake:  I also know Python and Bash scripting.
+- :snake:  I also know Python, JS and Bash scripting.
 - :jack_o_lantern: I am developing Bad USB and Arduino projects
 
 You can take my [Ethical Hacking Course][df2] or [Web Security and Bug Bounty Course][df5]                                                                                                    
