@@ -2,7 +2,6 @@
 
 - Developing hacking tools with Python and C++
 - Exploit development
-- Junior Javascript Developer
 
 ## About Me
 
