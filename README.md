@@ -33,5 +33,3 @@ Contact Me: csehofficial@protonmail.com
    <a href="https://www.instagram.com/csehacademy/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 	   <div align="center"> <img src="https://komarev.com/ghpvc/?username=csehacademy&label=Profile%20views&color=0e75b6&style=flat" alt="csehacademy" /> </p>
    </div>
-   
-   ![snake svg](https://github.com/csehacademy/csehacademy/blob/output/github-contribution-grid-snake.svg)
